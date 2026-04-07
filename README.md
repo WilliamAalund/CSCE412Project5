@@ -1,0 +1,1 @@
+The repository for my CSCE412 Project 5. It demonstrates a continuous deployment pipeline using AWS CodePipeline.
